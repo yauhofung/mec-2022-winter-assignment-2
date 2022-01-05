@@ -21,3 +21,6 @@ WSL
 
 ## 3. What should I do to increase my typing speed?
 
+Keep proper finger placement on your keyboard and try to look at the screen. https://www.ratatype.com/learn/
+
+
