@@ -18,3 +18,6 @@ WSL
     -  https://docs.microsoft.com/en-us/windows/wsl/install-manual
     -  https://docs.microsoft.com/en-us/windows/wsl/install
     -  https://www.windowscentral.com/install-windows-subsystem-linux-windows-10
+
+## 3. What should I do to increase my typing speed?
+
