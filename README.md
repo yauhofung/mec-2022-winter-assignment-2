@@ -21,3 +21,4 @@ WSL
 
 ## 3. What should I do to increase my typing speed?
 
+To increase your typing speed, you can start with research of course,then practice what is being told to do on the webpage. https://www.herzing.edu/blog/5-tips-improving-your-typing-speed-accuracy 
