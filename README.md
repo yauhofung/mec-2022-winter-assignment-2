@@ -21,3 +21,5 @@ WSL
 
 ## 3. What should I do to increase my typing speed?
 
+Resources for practicing 
+https://www.keybr.com/
