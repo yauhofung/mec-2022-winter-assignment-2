@@ -6,3 +6,4 @@ Google them and keep a cheat sheet!
 
 ## 2. I have a Windows machine, but I wish to code on a Linux operating system. What should I do?
 
+You can do research on the internet for example look at videos or webpages.
